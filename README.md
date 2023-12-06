@@ -1,4 +1,4 @@
-# AgentGPT - kompletní návad na instalaci
+# AgentGPT - kompletní návod na instalaci
 ---
 ## Vytvoření virtuálního stroje ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) v VMware Workstation (nebo Hyper-V)
 - alespoň 8GB RAM
@@ -58,7 +58,7 @@
     - Cheat sheet pdf: https://training.github.com/downloads/github-git-cheat-sheet.pdf
     - v instalaci nechat *default* kromě:
         - *Choosing the default editor used by git* -> nastavit na *VS Code*
-        - *Configuring the line ending conversions* -> *Checkout as-is, commit Unix-style line endings*
+        - *Configuring the line ending conversions* -> *Checkout as-is, commit Unix-style line endings* :exclamation:
     - po instalaci je třeba dokončit základní nastavení:
         - spustit konzoli *Git Bash*
         - `git config --global user.name "VASE JMENO"` <-- radši bez diakritiky
@@ -106,10 +106,10 @@ Další matroš:
 - https://medium.com/aimonks/how-autonomous-ai-agent-works-guide-for-beginners-c644750d4500
 ---
 ## Notes:
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) Agent nefunguje bez GPT4!  OpenAI Plus teď nový registrace nepřibírá.....  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) - poznámky na githubu psát v jazyce Markdown    
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) Agent nefunguje bez GPT4!  OpenAI Plus teď nový registrace nepřibírá.....  :x:   
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) - poznámky na githubu psát v jazyce Markdown  :white_check_mark:    
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - zopakovat si Python 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - zopakovat si Python :heavy_exclamation_mark:  
 
 
 
